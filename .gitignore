@@ -17,9 +17,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Generated results
-results/data/
-results/plots/
-
 # Environment files
 .env
